@@ -35,7 +35,7 @@ Explore our content organized into three main sections: Base (Radix), Algorithm 
    ```
  2. **Navigate to Specific Sections:**
     ```bash
-    cd fundamentals-of-programming
+    cd Fundamentals-of-Programming
     ```
 
 3. **Explore the Content:**

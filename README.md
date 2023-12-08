@@ -1,4 +1,4 @@
-# Fundamentals of Programming TA Class Repository 🐍📚
+## Fundamentals of Programming TA Class Repository 🐍📚
 <img src="./images/banner_python-readme.png" width="800">
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/afsharino/Fundamentals-of-Programming/main?color=%23E6E6FA)

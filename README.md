@@ -43,11 +43,11 @@ Explore our content organized into three main sections: Base (Radix), Algorithm 
 
 ## Repository Structure 📂
 
-### Base(Radix)
+### [Base(Radix)](https://github.com/afsharino/Fundamentals-of-Programming/tree/main/01.%20Base%20(Radix))
 - **/base/lectures:** Lectures about Base (Radix).
 - **/base/assignments:** Assignments related to Base (Radix).
 
-### Algorithm & Flowchart
+### [Algorithm & Flowchart](https://github.com/afsharino/Fundamentals-of-Programming/tree/main/02.%20Algorithms%20%26%20Flowcharts)
 - **/algorithm-flowchart/lectures:** Lectures about algorithms and flowcharts.
 - **/algorithm-flowchart/assignments:** Assignments related to algorithms and flowcharts.
 
@@ -55,7 +55,7 @@ Explore our content organized into three main sections: Base (Radix), Algorithm 
 - **/python/lectures:** Python programming lectures.
 - **/python/assignments:** Python programming assignments.
 
-### Midterm-Preparation
+### [Midterm-Preparation](https://github.com/afsharino/Fundamentals-of-Programming/tree/main/04.%20Midterm-Prepration)
 - Includes a comprehensive notebook of solved examples 
 
 ## How to Contribute 🤝

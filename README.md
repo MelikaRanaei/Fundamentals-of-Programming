@@ -31,7 +31,7 @@ Explore our content organized into three main sections: Base (Radix), Algorithm 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/fundamentals-of-programming.git
+   git clone https://github.com/afsharino/Fundamentals-of-Programming.git
    ```
  2. **Navigate to Specific Sections:**
     ```bash

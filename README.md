@@ -54,6 +54,9 @@ Explore our content organized into three main sections: Base (Radix), Algorithm 
 - **/python/lectures:** Python programming lectures.
 - **/python/assignments:** Python programming assignments.
 
+### Midterm-Prepration
+- Includes a comprehensive notebook of solved examples 
+
 ## How to Contribute 🤝
 We welcome contributions! Whether it's fixing a typo or adding new content, Simply open a pull request, and upon review, we'll merge it into the repository if it aligns with our standards.
 

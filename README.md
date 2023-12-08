@@ -19,6 +19,7 @@ Welcome to the TA Class Repository for the Fundamentals of Programming! This rep
   - [Base (Radix)](#base-about-base-radix)
   - [Algorithm & Flowchart](#algorithm--flowchart)
   - [Python](#python)
+  - [Midterm-Preparation](#Midterm-Preparation)
 - [How to Contribute](#how-to-contribute)
 - [Contact Me](#contact-me)
 
@@ -54,7 +55,7 @@ Explore our content organized into three main sections: Base (Radix), Algorithm 
 - **/python/lectures:** Python programming lectures.
 - **/python/assignments:** Python programming assignments.
 
-### Midterm-Prepration
+### Midterm-Preparation
 - Includes a comprehensive notebook of solved examples 
 
 ## How to Contribute 🤝
